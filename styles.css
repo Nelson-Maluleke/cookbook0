@@ -1,4 +1,108 @@
-html {
+body {
+  box-sizing: border-box;
+  margin: 0 auto;;
+  padding: 0;
+  background-color: beige;
+  font-family: Cursive, Georgia, serif;
+}
+
+div > a {
+  display: block;
+}
+
+.header {
+  border: 2px solid black;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom: 40px;
+  padding: 20px 40px;
+  animation-name: dynamic;
+  animation-duration: 13s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  text-align: center;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.subtext {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.links a {
+  color: black;
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 15px;
+  background-color: rgb(255, 192, 203, 0.5);
+  border: 1px solid black;
+}
+
+.links a:hover {
+  background-color: rgb(255, 192, 203);
+  cursor: pointer;
+}
+
+.links a:active {
+  background-color: hotpink;
+}
+
+.letter {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 40px;
+  background-color: rgb(150, 192, 203);
+  position: sticky;
+  top: 0;
+  border: 2px black solid;
+}
+
+@keyframes dynamic {
+  10% {
+    background-color:  lightcoral;
+  }
+
+  20% {
+    background-color: #87ceeb;
+  }
+
+  30% {
+    background-color: lightcoral;
+  }
+
+  40% {
+    background-color: #d7acac;
+  }
+
+  50% {
+    background-color: rgb(255, 192, 203);
+  }
+
+  60% {
+    background-color: #ffd700;
+  }
+
+  70% {
+    background-color: #b76e79, ;
+  }
+
+  80% {
+    background-color: rgb(255, 192, 203);
+  }
+
+  100% {
+    background-color: rgb(150, 192, 203);
+  }
+}
 
 .title {
   text-decoration: underline;
