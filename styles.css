@@ -109,3 +109,48 @@ a:active {
   }
 }
 
+.title {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.bottom {
+  margin-bottom: 80px;
+}
+
+li {
+  padding: 10;
+}
+
+li:hover {
+  background-color: rgb(150, 192, 203);
+}
+
+.container {
+  background-color: rgb(255, 192, 203); ;
+  border-radius: 30px;
+  padding: 30px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+img {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+  border-radius: 30px;
+  width: 250px;
+  justify-content: center;
+  align-items: center
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content:center;
+  border: 2px solid black;
+  padding: 5;
+}
+
+a:hover {
+  background-color: rgb(150, 192, 203);
+}
