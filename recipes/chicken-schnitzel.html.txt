@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Chicken schnitzel</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Chicken schnitzel</h1>
+    <img class="pic" src="https://i.postimg.cc/c4n23KM4/chicken-schnitzel-186199-1.jpg">
+
+    <hr>
+      <h3>description:</h3>
+      <p>With a golden, crisp crust enclosing tender, lean chicken, it is little wonder that it appears on menus around the world.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">2 cups fresh breadcrumbs</li>
+        <li class="ingredients">1/3 cup finely grated parmesan cheese</li>
+        <li class="ingredients">1 tbsp finely grated lemon rind</li>
+        <li class="ingredients">2 tbsp finely chopped fresh flat-leaf parsley leaves</li>
+        <li class="ingredients">1 tsp garlic powder</li>
+        <li class="ingredients">1/2 cup Coles White Plain Flour</li>
+        <li class="ingredients">1 egg</li>
+        <li class="ingredients">1 tbsp Coles Full Cream Milk</li>
+        <li class="ingredients">550g chicken breast schnitzel (uncrumbed)</li>
+        <li class="ingredients">Vegetable oil, for shallow-frying</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Combine breadcrumbs, parmesan, lemon rind, parsley and garlic powder on a plate. Season with salt and pepper. Place flour on a plate. Whisk egg and milk together in a shallow bowl.</li>
+
+      <li class="instructions">Coat 1 piece of chicken in flour, shaking off excess. Dip in egg mixture. Coat in breadcrumb mixture. Place on a plate. Repeat with remaining chicken, flour, egg mixture and breadcrumb mixture.</li>
+
+      <li class="instructions">Heat oil in a frying pan over medium-high heat. Cook chicken, in batches, for 4 to 5 minutes each side or until golden and cooked through. Transfer to a plate lined with paper towel to drain. Serve.</li>
+      
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

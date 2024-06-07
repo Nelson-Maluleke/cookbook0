@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Baked german cheesecake</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Baked german cheesecake</h1>
+    <img class="pic" src="https://i.postimg.cc/mDmT1c4g/baked-german-cheesecake-172866-2.jpg"
+    alt="picture of Baked german cheesecake">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Known in Germany as Kasekuchen, this cake is made from quark, a soft, low-in-fat cheese. This gives it a lighter and fluffier consistency than a typical cheesecake.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">730g quark</li>
+        <li class="ingredients">110g (1/2 cup) caster sugar</li>
+        <li class="ingredients">50g (1/3 cup) cornflour</li>
+        <li class="ingredients">4 eggs, separated</li>
+        <li class="ingredients">2 tsp finely grated lemon rind</li>
+        <li class="ingredients">1 tsp vanilla extract</li>
+        <li class="ingredients">Pinch salt</li>
+        <li class="ingredients">150g (1 cup) plain flour</li>
+        <li class="ingredients">75g (1/2 cup) self-raising flour</li>
+        <li class="ingredients">100g butter, chopped</li>
+        <li class="ingredients">80g caster sugar</li>
+        <li class="ingredients">2 egg yolks</li>
+        <li class="ingredients">2 tbsp iced water</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Line a fine sieve with a damp piece of cheesecloth or muslin and place over a bowl. Spoon the quark into the lined sieve. Cover and place in the fridge for 1 hour to drain</li>
+      
+      <li class="instructions">Preheat oven to 160C/140C fan forced. Place a baking tray into the oven to heat.</li>
+      
+      <li class="instructions">Release the base from a 20cm (base measurement) springform pan. Grease and line the base with baking paper and secure back in the pan. Grease the side of the pan.</li>
+      
+      <li class="instructions">To make the pastry, place plain and self-raising flours, butter and sugar in a food processor. Process until mixture resembles fine breadcrumbs. Add the 2 egg yolks and iced water. Process until mixture just comes together. Shape dough into a disc. Wrap in plastic wrap and place in the fridge for 20 minutes to rest.</li>
+      
+      <li class="instructions">Roll dough out between 2 sheets of baking paper until 5mm-thick. Line prepared dish with pastry. Trim the excess, using to fill any gaps. Place in the fridge for 15 minutes to chill.</li>
+      
+      <li class="instructions">Transfer the quark to a large bowl. Add the sugar, cornflour, 4 eggs yolks, rind, extract and salt. Use a balloon whisk to whisk mixture until well combined.</li>
+      
+      <li class="instructions">Use electric beaters to whisk the egg whites in a clean, dry bowl until firm peaks form. In 2 batches, gently fold into the quark mixture. Spoon into the pastry case. Place pan on the baking tray. Bake for 1 hour or until just set and slightly wobbly in the centre. Turn oven off. Leave the cheesecake in the oven, with the door slightly ajar, until cooled completely. Place in the fridge for 8 hours or overnight to set.</li>
+      
+      <li class="instructions">Carefully run a palette knife around the edge of the cheesecake to help release from the pan. Serve.</li>
+
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

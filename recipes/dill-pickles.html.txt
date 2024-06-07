@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Dill pickles</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Dill pickles</h1>
+    <img class="pic" src="https://i.postimg.cc/j5L24VXT/dill-pickles-97710-1.jpg">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Serve these dill pickles in sandwiches, chopped through salads or with cold meats and salmon.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">600g small pickling cucumbers (or enough to fill jar)</li>
+        <li class="ingredients">4 dill sprigs</li>
+        <li class="ingredients">4 bay leaves</li>
+        <li class="ingredients">2 tsp mixed peppercorns</li>
+        <li class="ingredients">2 tsp mustard seeds</li>
+        <li class="ingredients">2 tsp coriander seeds</li>
+        <li class="ingredients">100ml white vinegar</li>
+        <li class="ingredients">1/4 cup (55g) sea salt</li>
+        <li class="ingredients">1 1/2 cups (375ml) water</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Wash cucumbers and pat dry, trimming any stalks. Place in a bowl and cover with iced water. Chill for 4 hours (this will make the pickles crunchier).</li>
+
+      <li class="instructions">Drain cucumbers and pack closely into sterilised jar (see Notes) with dill, bay leaves and spices.</li>
+
+      <li class="instructions">Place vinegar, 1/4 cup (55g) sea salt and 1 1/2 cups (375ml) water in a saucepan over medium-high heat. Bring to the boil, and cook, stirring until salt dissolves. Remove from heat and fill sterilised jar with hot brine. Tap the jar gently to remove any air bubbles and seal tightly. Invert jar to create a sterile seal. Cool completely, then chill for 1 week before opening.</li>
+      
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

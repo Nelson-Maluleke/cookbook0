@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Cheesy Caprese chicken</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Cheesy Caprese chicken</h1>
+    <img class="pic" src="https://i.postimg.cc/N0dpSTwt/cheesy-caprese-chicken-143865-2.jpg">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Create a new family favourite with this cheesy chicken bake.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">1 1/2 tbsp extra virgin olive oil</li>
+        <li class="ingredients">4 large skinless chicken thigh cutlets</li>
+        <li class="ingredients">3 eschalots, finely chopped</li>
+        <li class="ingredients">2 garlic cloves, crushed</li>
+       <li class="ingredients">2 tbsp balsamic vinegar</li>
+        <li class="ingredients">1 tbsp brown sugar</li>
+        <li class="ingredients">1/2 cup tomato purée</li>
+        <li class="ingredients">2 tsp finely chopped fresh oregano, plus extra leaves to serve</li>
+        <li class="ingredients">250g cherry tomatoes</li>
+        <li class="ingredients">1 1/2 cups dried risoni</li>
+        <li class="ingredients">1/2 cup chopped fresh flat-leaf parsley leaves</li>
+        <li class="ingredients">2 tsp finely grated lemon rind</li>
+        <li class="ingredients">10g butter</li>
+        <li class="ingredients">1/2 cup grated pizza cheese</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Preheat oven to 200C/180C fan-forced.</li>
+
+      <li class="instructions">Heat 1 tablespoon oil in a deep ovenproof frying pan over high heat. Add chicken. Cook for 2 to 3 minutes each side or until browned. Transfer to a plate.</li>
+
+      <li class="instructions">Add remaining oil to pan. Add eschalot and garlic. Cook, stirring, for 2 minutes. Add vinegar and sugar. Cook, stirring, for 1 to 2 minutes or until mixture thickens slightly.</li>
+
+      <li class="instructions">Add purée and oregano to pan. Bring to the boil. Add tomatoes. Return chicken to pan. Season with salt and pepper. Bake, turning halfway through, for 15 minutes or until chicken is cooked through.</li>
+
+      <li class="instructions">Meanwhile, cook risoni in a large saucepan of boiling, salted water, following packet directions. Drain. Return to pan. Add parsley, lemon rind and butter. Toss to combine. Season with salt and pepper. Cover to keep warm.</li>
+
+      <li class="instructions">Turn chicken top-side up. Top with cheese. Bake for 3 to 4 minutes or until cheese melts. Sprinkle with extra oregano. Serve with risoni mixture. Serve.</li>
+      
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

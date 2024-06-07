@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Dijon pork with creamy mash</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Dijon pork with creamy mash</h1>
+    <img class="pic" src="https://i.postimg.cc/wjZGjLGk/dijon-pork-with-creamy-mash-70676-1.jpg">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Rediscover the perfect match of creamy Dijon mustard and tender pan-fried pork.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">4 pork cutlets</li>
+        <li class="ingredients">2 tsp olive oil</li>
+        <li class="ingredients">300g green round beans, trimmed</li>
+        <li class="ingredients">1 x 475g ctn Mashed Potatoes</li>
+        <li class="ingredients">Dijon mustard, to serve</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Preheat a large non-stick frying pan over medium heat. Brush the pork with the oil and season with salt and pepper. Cook the pork for 3-4 minutes each side for medium or until cooked to your liking. Transfer to a plate and cover loosely with foil. Set aside for 5 minutes to rest.</li>
+
+      <li class="instructions">Meanwhile, cook the beans in a steamer over a saucepan of simmering water for 4 minutes or until bright green and tender crisp.</li>
+
+      <li class="instructions">Heat the mashed potato following packet directions.</li>
+
+      <li class="instructions">Divide the mash, pork and beans among serving plates. Top the pork with a dollop of mustard to serve.</li>
+      
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

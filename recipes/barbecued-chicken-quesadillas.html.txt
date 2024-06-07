@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Barbecued chicken quesadillas</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Barbecued chicken quesadillas</h1>
+    <img class="pic" src="https://i.postimg.cc/fRwr38HD/barbecued-chicken-quesadillas-103843-1.jpg"
+    alt="picture of Barbecued chicken quesadillas">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Serve up a meal the whole family will enjoy with barbecued chicken quesadillas.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">1 cup (280g) tomato sauce</li>
+        <li class="ingredients">1/3 cup (80ml) white wine vinegar</li>
+        <li class="ingredients">2 tbsp brown sugar</li>
+        <li class="ingredients">1 1/2 tbsp Cholula hot sauce</li>
+        <li class="ingredients">1 tbsp Worcestershire sauce</li>
+        <li class="ingredients">Chicken breast fillets, pounded to an even 2cm thickness</li>
+        <li class="ingredients">2 tbsp canola oil</li>
+        <li class="ingredients">1 small red onion, cut into 5mm slices keeping rings intact</li>
+        <li class="ingredients">4 flour tortillas</li>
+        <li class="ingredients">2 cups grated tasty cheese (from 240g)</li>
+        <li class="ingredients">1 avocado, halved, pitted, peeled, sliced</li>
+        <li class="ingredients">1/2 cup coriander leaves, roughly chopped</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Preheat the barbecue chargrill and hot plate on medium heat.</li>
+
+      <li class="instructions">In a medium bowl, whisk the tomato sauce, vinegar, sugar, hot sauce, Worcestershire, 1 tsp sea salt flakes and ½ tsp freshly ground black pepper. Reserve 1/3 cup (80ml) of the sauce for basting and set the remaining sauce aside.</li>
+
+      <li class="instructions">Brush the chicken with 2 teaspoons of oil and season with salt and pepper. Barbecue the chicken on the chargrill, basting with the reserved barbecue sauce, for 6 mins or until charred. Turn the chicken over and cook, basting the chicken with more barbecue sauce, for 6 mins or until the chicken is cooked through but still juicy. Transfer the chicken to a cutting board to rest for 5 mins. Dice the chicken into 1cm pieces and transfer to a large bowl. Add ½ cup (125ml) of the remaining barbecue sauce and toss to coat. Season the chicken mixture to taste with salt and pepper.</li>
+
+      <li class="instructions">Meanwhile, brush the onion with 2 teaspoons of oil and season with salt. Cook on the chargrill, turning as needed, for 12 mins or until charred and tender.</li>
+
+      <li class="instructions">Brush one side of the tortillas with 2 teaspoons of oil. Lay the tortillas, oiled-side down, on a work surface. Sprinkle ¼ cup of cheese over the bottom half of each tortilla and top with the charred onions. Divide the chicken mixture between the tortillas, then top with another ¼ cup of cheese. Top with the avocado slices and coriander. Fold the top half of the tortilla over the filling and press lightly to compact.</li>
+
+      <li class="instructions">Lightly brush the remaining oil over the barbecue hot plate. Working in batches, place the quesadillas on the hot plate and cook, flipping halfway through cooking, for 5 mins or until the tortillas are golden brown and the cheese has melted. Transfer the quesadillas to a cutting board. Cut each quesadilla into 4 wedges and serve with the remaining barbecue sauce.</li>
+    
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

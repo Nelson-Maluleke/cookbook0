@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Beef and cheddar patties</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Beef and cheddar patties</h1>
+    <img class="pic" src="https://i.postimg.cc/kgkYTTjr/beef-and-cheddar-patties-132550-1.jpg"
+    alt="picture of Beef and cheddar patties">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Cheesy meat patties that only require 20 minutes prep and 20 minutes cooking time.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">500g beef mince</li>
+        <li class="ingredients">1 small brown onion, grated</li>
+        <li class="ingredients">1/3 cup grated cheddar</li>
+        <li class="ingredients">1/4 cup chopped fresh flat-leaf parsley leaves</li>
+        <li class="ingredients">1 garlic clove, crushed</li>
+        <li class="ingredients">1 1/4 cups fresh breadcrumbs</li>
+        <li class="ingredients">1 tbsp smoky barbecue sauce</li>
+        <li class="ingredients">1 tbsp Worcestershire sauce</li>
+        <li class="ingredients">1 egg, lightly beaten</li>
+        <li class="ingredients">2 tbsp extra virgin olive oil</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Place mince, onion, cheddar, parsley, garlic, breadcrumbs, sauces and egg in a bowl. Season with salt and pepper. Mix to combine. Shape mixture into 6 patties. Place on a plate. Refrigerate for 30 minutes.</li>
+
+      <li class="instructions">Heat oil in a large frying pan over medium-high heat. Cook patties, in 2 batches, for 4 to 5 minutes each side or until browned and cooked through. Serve.</li>
+    
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Coleslaw</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Coleslaw</h1>
+    <img class="pic" src="https://i.postimg.cc/wxWbZXFB/coleslaw-81183-1.jpg">
+
+    <hr>
+      <h3>description:</h3>
+      <p>This colourful coleslaw is the must have salad at a family barbecue.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">1/4 (450g) green cabbage, shredded</li>
+        <li class="ingredients">1/2 small red onion, thinly sliced</li>
+        <li class="ingredients">1 medium carrot, peeled, grated</li>
+        <li class="ingredients">1/4 cup roughly chopped fresh dill</li>
+        <li class="ingredients">1/2 cup whole-egg mayonnaise</li>
+        <li class="ingredients">1/4 cup lemon juice</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Place cabbage, onion, carrot and dill in a bowl. Whisk mayonnaise and lemon juice together in a jug. Season with salt and pepper. Add to cabbage mixture. Toss to combine. Serve.</li>
+      
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

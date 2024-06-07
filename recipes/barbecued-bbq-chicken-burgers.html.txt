@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Barbecued chicken burgers</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Barbecued chicken burgers</h1>
+    <img class="pic" src="https://i.postimg.cc/gkTPWFz1/today-on-emergency-dinners-bbq-chicken-burgers-141536-2.jpg"
+    alt="picture of Barbecued chicken burgers">
+
+    <hr>
+      <h3>description:</h3>
+      <p>These homemade smoky barbecue chicken burgers are ready in 10 minutes, perfect for busy school nights.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">1 green apple, quartered, cored, very thinly sliced</li>
+        <li class="ingredients">1 Lebanese cucumber, very thinly sliced</li>
+        <li class="ingredients">1/4 small red onion, very thinly sliced</li>
+        <li class="ingredients">2 tbsp fresh dill sprigs</li>
+        <li class="ingredients">1/2 cup lime and chilli vinaigrette</li>
+        <li class="ingredients">2 cooked chicken breasts, shredded</li>
+        <li class="ingredients">1/2 cup smoky barbecue sauce</li>
+        <li class="ingredients">4 brioche burger buns, split</li>
+        <li class="ingredients">Chipotle aioli, to serve</li>
+        <li class="ingredients">Salad leaves, to serve</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Place apple, cucumber and onion in a bowl. Add dill. Drizzle with vinaigrette. Season with salt and pepper. Toss well to combine. Set aside.</li>
+
+      <li class="instructions">Meanwhile, heat a large non-stick frying pan over medium-high heat. Add chicken to pan. Cook, tossing, for 2 minutes or until heated through. Add sauce and 1/4 cup water. Season with salt and pepper. Cook, tossing, for 2 minutes or until sauce thickens and coats chicken.</li>
+
+      <li class="instructions">Place burger bases on a plate. Top with chicken, then apple mixture. Drizzle with aioli and top with burger tops. Serve with salad leaves.</li>
+
+    
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

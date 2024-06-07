@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Almond cake with plums and cream</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Almond cake with plums and cream</h1>
+    <img class="pic" src="https://i.postimg.cc/P5bRJWX1/almond-cake-with-plums-and-cream-101264-1.jpg"
+    alt="picture of almond and cherry cookies">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Leave room for a slice of this moist, buttery cake with fresh plums and a perfectly chewy crust. It's a celebration, so there's no better time to indulge in a big dollop of the cardamom-scented whipped cream.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">150g unsalted butter, softened</li>
+        <li class="ingredients">2/3 cup (150g) plus 1 tbsp caster sugar</li>
+        <li class="ingredients">2 cups (240g) almond meal</li>
+        <li class="ingredients">3 Free Range Eggs</li>
+        <li class="ingredients">2 tbsp Grand Marnier or other orange liqueur</li>
+        <li class="ingredients">1 orange, finely grated zest only</li>
+        <li class="ingredients">1/4 tsp almond essence</li>
+        <li class="ingredients">1/4 tsp baking powder</li>
+        <li class="ingredients">1/4 tsp salt</li>
+        <li class="ingredients">1/2 cup (75g) plain flour</li>
+        <li class="ingredients">3 red-fleshed plums, pitted, each cut into 8 wedges</li>
+        <li class="ingredients">300ml ctn thickened cream</li>
+        <li class="ingredients">2 tbsp icing sugar, plus extra for dusting</li>
+        <li class="ingredients">1/2 tsp ground cardamom</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      <li class="instructions">Preheat the oven to 160°C. Coat a 23cm round springform pan with butter.</li>
+
+      <li class="instructions">Using an electric mixer, beat the butter and 2/3 cup (150g) sugar on medium speed until light and creamy. Gradually beat in the almond meal. Add the eggs one at a time. Mix in the Grand Marnier, orange zest, almond essence, baking powder and salt. Reduce the speed to low and mix in the flour until just blended. Transfer the batter to the prepared pan.</li>
+
+      <li class="instructions">In a small bowl, toss the plum wedges with 1 tbs caster sugar. Gently place the plum wedges on top of the batter. Bake for 40 mins or until a toothpick inserted into the centre of the cake comes out with a few moist crumbs. Transfer the cake to a wire rack and allow to cool in the pan for 10 mins.</li>
+
+      <li class="instructions">Meanwhile, in a large bowl, whisk the cream, icing sugar and cardamom until fluffy. Remove cake from the pan and transfer to a cake plate. Dust the warm or room temperature cake with the extra icing sugar. Cut the cake into wedges and serve with the whipped cream.</li>
+
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

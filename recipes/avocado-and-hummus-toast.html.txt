@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Avocado and hummus toast</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Avocado and hummus toast</h1>
+    <img class="pic" src="https://i.postimg.cc/sD4LDPD7/avocado-and-hummus-toast-183840-2.jpg"
+    alt="picture of Avocado and hummus toast">
+
+    <hr>
+      <h3>description:</h3>
+      <p>Start the day with this protein-packed avocado toast that's ready in five minutes.</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">2 (38g each) slices wholegrain sourdough bread, toasted</li>
+        <li class="ingredients">11 ⁄2 tbs hummus</li>
+        <li class="ingredients">1 ⁄4 avocado, sliced</li>
+        <li class="ingredients">Mixed salad leaves, to serve</li>
+        <li class="ingredients">1 tsp hemp seeds</li>
+        <li class="ingredients">1 lime wedge</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      
+      <li class="instructions">Spread the toast with hummus. Top with the avocado. Scatter over mixed leaves, hemp seeds. Squeeze over lime to serve.</li>
+
+    
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>

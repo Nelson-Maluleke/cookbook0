@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Cookbook | Almond and cherry cookies</title>  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container">
+      
+    <h1 class="title">Almond and cherry cookies</h1>
+    <img class="pic" src="https://i.postimg.cc/RVdGm63s/october20-almond-and-cherry-cookies-taste-165091-1.jpg"
+    alt="picture of almond and cherry cookies">
+
+    <hr>
+      <h3>description:</h3>
+      <p>These classic almond and cherry cookies make the <em>perfect</em> home baked gift and they can be made ahead of time!</p>
+    <hr class="bottom">
+
+    <hr>
+      <h3>Ingredients:</h3>
+      <ul class="unordered">
+        <li class="ingredients">160g butter, softened</li>
+        <li class="ingredients">1/2 cup (110g) Caster Sugar</li>
+        <li class="ingredients">Free Range Eggs</li>
+        <li class="ingredients">1 tsp almond essence</li>
+        <li class="ingredients">1/4 tsp pink liquid food colouring</li>
+        <li class="ingredients">2 cups (300g) plain flour</li>
+        <li class="ingredients">1 cup (120g) almond meal</li>
+        <li class="ingredients">200g pkt red glacé cherries, coarsely chopped</li>
+        <li class="ingredients">1/2 cup (70g) pistachios, coarsely chopped</li>
+        <li class="ingredients">1/2 cup (40g) desiccated coconut</li>
+      </ul>
+    <hr class="bottom">
+
+    <hr>
+    <h3>Instructions:</h3>
+    <ol class="ordered">
+      <li class="instructions">Line 2 baking trays with baking paper. Use an electric mixer to beat the butter, sugar, eggs, almond essence and food colouring in a large bowl until well combined. Stir in the flour and almond meal. Add the cherry and pistachio and stir until well combined.</li>
+      <li class="instructions">Turn the dough onto a lightly floured surface and gently knead until smooth. Divide into 2 even portions. Roll each portion into a 22cm log. Place the coconut on a plate. Roll the logs in coconut to coat. Cover with plastic wrap. Place in the fridge for 30 mins to chill.</li>
+      <li class="instructions">Preheat oven to 160°C. Cut the logs into 1cm-thick slices. Place the slices on the trays, about 3cm apart. Bake for 20 mins or until golden and firm. Transfer the cookies to a wire rack to cool completely.</li>
+    </ol>
+    <hr>
+    <a href="../index.html">Return To Home</a>
+
+  </div>
+   
+</body>
+</html>
